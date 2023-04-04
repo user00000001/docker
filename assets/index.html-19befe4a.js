@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-483e9328","path":"/advinced/","title":"ENGLISH","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1589795920000,"contributors":[{"name":"jayb","email":"jaybrownjyb@gmail.com","commits":1}]},"filePathRelative":"advinced/README.md"}');export{e as data};
